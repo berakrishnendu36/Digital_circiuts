@@ -1,4 +1,4 @@
-# Essential logic circuits at one place.
+# All essential logic.ly circuits at one place.
 
 Logic.ly is a popular logic circuit simulator for both Windows and macOS. It has an intuitive user interface and occupy less resources. Here you'll find most of the circuits and libraries(<b>compatible with mac OSX</b>) for your college assignments. 
 
